@@ -9,8 +9,9 @@ I aim to perform at my **highest level** in every assignment, **thrive** in team
 ## Skills:
 - HTML    
 - CSS
-- JAVASCRIPT
-- ANGULAR.JS
+- Javascript
+- Angular.JS
+- Basic Java
 - Basic API Integration
 - Basic GIT
 - Basic MySQL
@@ -37,6 +38,7 @@ On Job Training Project - PSU Library
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/bc3b0ebe-e2d4-4044-ba2c-7f7a5de94614" />
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/a1c2d781-f3f4-4d6e-9256-746e07205657" />
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/46b156bc-d83a-46e2-ad29-72b138656028" />
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/e8e81b63-6025-4acf-b6fc-c101c54a0df9" />
 
 ## Contact:
 <a href="https://github.com/Weayabo"><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/bc3b0ebe-e2d4-4044-ba2c-7f7a5de94614" /></a>
