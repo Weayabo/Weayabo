@@ -6,7 +6,8 @@ Interested in **web development**, **software testing**, and building **responsi
 
 I aim to perform at my **highest level** in every assignment, **thrive** in team settings, and possess a demonstrated capacity to **learn and adjust rapidly**.
 
-## Skills:
+<img width="70" height="30" alt="image" src="https://github.com/user-attachments/assets/f6ef074b-1d34-4f40-95f6-0dc8ba0bbe2f" />
+
 - HTML    
 - CSS
 - Javascript
@@ -18,7 +19,8 @@ I aim to perform at my **highest level** in every assignment, **thrive** in team
 - CI/CD Integration
 - Basic Figma UI/UX
 
-## Projects:
+<img width="100" height="40" alt="image" src="https://github.com/user-attachments/assets/997ca17a-289a-44d6-855a-ca3ca2c4132c" />
+
 **CareerLens**
 
 Thesis Project - PSU
@@ -30,8 +32,8 @@ Thesis Project - PSU
 On Job Training Project - PSU Library
 - App Description : A software application that scan barcode based on student number when entering the premises of PSU library.
 - Tech Stack: Java build in Apache Netbeans and using MySQL for database.
- 
-## Tools:
+
+<img width="90" height="30" alt="image" src="https://github.com/user-attachments/assets/1024e637-5fb9-43cb-a762-f89a17117a07" /> <br>
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/a7f54235-0c98-474a-adcd-38edf5fc839b" />
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/b8ff8ffb-d6ab-4b35-8bbc-d09a8efaac2f" />
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/761eb527-8ab2-4a1e-9157-2e8a9f1fef7b" />
@@ -40,7 +42,7 @@ On Job Training Project - PSU Library
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/46b156bc-d83a-46e2-ad29-72b138656028" />
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/e8e81b63-6025-4acf-b6fc-c101c54a0df9" />
 
-## Contact:
+<img width="110" height="45" alt="image" src="https://github.com/user-attachments/assets/e8b52fa5-e3f2-483b-8582-944b89900095" /> <br>
 <a href="https://github.com/Weayabo"><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/bc3b0ebe-e2d4-4044-ba2c-7f7a5de94614" /></a>
 <a href="https://www.linkedin.com/in/remus-zamora-507768374/"><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/24a36202-3526-410d-a89e-2146de927a67" /></a>
 <a href="https://www.facebook.com/remuszamora"><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/bf165665-9ae0-4125-ad86-e5aadb39729d" /></a>
